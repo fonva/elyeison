@@ -8208,6 +8208,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "35"
+          },
           "arcs": [
             [
               1275,
@@ -8220,6 +8223,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "36"
+          },
           "arcs": [
             [
               -1173,
@@ -8231,6 +8237,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "37"
+          },
           "arcs": [
             [
               807,
@@ -8244,6 +8253,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "38"
+          },
           "arcs": [
             [
               1279,
@@ -8254,6 +8266,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "39"
+          },
           "arcs": [
             [
               -931,
@@ -8266,6 +8281,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "40"
+          },
           "arcs": [
             [
               1362,
@@ -8286,6 +8304,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "41"
+          },
           "arcs": [
             [
               -1186,
@@ -8298,6 +8319,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "42"
+          },
           "arcs": [
             [
               1582,
@@ -8313,6 +8337,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "43"
+          },
           "arcs": [
             [
               1584,
@@ -8327,6 +8354,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "44"
+          },
           "arcs": [
             [
               1588,
@@ -8338,6 +8368,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "45"
+          },
           "arcs": [
             [
               -783,
@@ -8350,6 +8383,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "46"
+          },
           "arcs": [
             [
               -1564,
@@ -8365,6 +8401,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "47"
+          },
           "arcs": [
             [
               1277,
@@ -8375,6 +8414,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "48"
+          },
           "arcs": [
             [
               -1356,
@@ -8388,6 +8430,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "49"
+          },
           "arcs": [
             [
               -1594,
@@ -8400,6 +8445,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "50"
+          },
           "arcs": [
             [
               1187,
@@ -8412,6 +8460,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "51"
+          },
           "arcs": [
             [
               -1244,
@@ -8431,6 +8482,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "52"
+          },
           "arcs": [
             [
               1595,
@@ -8445,6 +8499,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "53"
+          },
           "arcs": [
             [
               -930,
@@ -8457,6 +8514,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "54"
+          },
           "arcs": [
             [
               -782,
@@ -8470,6 +8530,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "55"
+          },
           "arcs": [
             [
               -778,
@@ -8481,6 +8544,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "56"
+          },
           "arcs": [
             [
               990,
@@ -8500,6 +8566,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "57"
+          },
           "arcs": [
             [
               1604,
@@ -8512,6 +8581,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "58"
+          },
           "arcs": [
             [
               1607,
@@ -8525,6 +8597,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "59"
+          },
           "arcs": [
             [
               -1355,
@@ -8539,6 +8614,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "60"
+          },
           "arcs": [
             [
               -1006,
@@ -8554,6 +8632,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "61"
+          },
           "arcs": [
             [
               -1612,
@@ -8565,6 +8646,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "62"
+          },
           "arcs": [
             [
               1615,
@@ -8580,6 +8664,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "63"
+          },
           "arcs": [
             [
               1619,
@@ -8592,6 +8679,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "64"
+          },
           "arcs": [
             [
               1449,
@@ -8604,6 +8694,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "65"
+          },
           "arcs": [
             [
               -1064,
@@ -8618,6 +8711,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "66"
+          },
           "arcs": [
             [
               1621,
@@ -8630,6 +8726,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "67"
+          },
           "arcs": [
             [
               1623,
@@ -8643,6 +8742,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "68"
+          },
           "arcs": [
             [
               -1435,
@@ -8654,6 +8756,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "69"
+          },
           "arcs": [
             [
               1627,
@@ -8668,6 +8773,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "70"
+          },
           "arcs": [
             [
               1629,
@@ -8680,6 +8788,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "71"
+          },
           "arcs": [
             [
               1632,
@@ -8695,6 +8806,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "72"
+          },
           "arcs": [
             [
               1364,
@@ -8707,6 +8821,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "73"
+          },
           "arcs": [
             [
               1638,
@@ -8718,6 +8835,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "74"
+          },
           "arcs": [
             [
               1640,
@@ -8729,6 +8849,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "75"
+          },
           "arcs": [
             [
               1641,
@@ -8742,6 +8865,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "76"
+          },
           "arcs": [
             [
               1645,
@@ -8754,6 +8880,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "77"
+          },
           "arcs": [
             [
               -1640,
@@ -8769,6 +8898,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "78"
+          },
           "arcs": [
             [
               1650,
@@ -8783,6 +8915,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "79"
+          },
           "arcs": [
             [
               1652,
@@ -8797,6 +8932,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "80"
+          },
           "arcs": [
             [
               -1005,
@@ -8809,6 +8947,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "81"
+          },
           "arcs": [
             [
               810,
@@ -8822,6 +8963,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "82"
+          },
           "arcs": [
             [
               -1105,
@@ -8834,6 +8978,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "83"
+          },
           "arcs": [
             [
               1660,
@@ -8847,6 +8994,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "84"
+          },
           "arcs": [
             [
               1002,
@@ -8857,6 +9007,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "85"
+          },
           "arcs": [
             [
               1366,
@@ -8870,6 +9023,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "86"
+          },
           "arcs": [
             [
               -891,
@@ -8884,6 +9040,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "87"
+          },
           "arcs": [
             [
               -1016,
@@ -8899,6 +9058,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "88"
+          },
           "arcs": [
             [
               1160,
@@ -8912,6 +9074,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "89"
+          },
           "arcs": [
             [
               1088,
@@ -8926,6 +9091,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "90"
+          },
           "arcs": [
             [
               1672,
@@ -8936,6 +9104,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "91"
+          },
           "arcs": [
             [
               -1655,
@@ -8951,6 +9122,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "92"
+          },
           "arcs": [
             [
               -1676,
@@ -8962,6 +9136,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "93"
+          },
           "arcs": [
             [
               -776,
@@ -8976,6 +9153,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "94"
+          },
           "arcs": [
             [
               811,
@@ -8987,6 +9167,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "95"
+          },
           "arcs": [
             [
               1681,
@@ -9000,6 +9183,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "96"
+          },
           "arcs": [
             [
               -1664,
@@ -9013,6 +9199,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "97"
+          },
           "arcs": [
             [
               -1434,
@@ -9027,6 +9216,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "98"
+          },
           "arcs": [
             [
               1686,
@@ -9038,6 +9230,9 @@
         },
         {
           "type": "Polygon",
+          "properties": {
+            "Distrito": "99"
+          },
           "arcs": [
             [
               1369,
